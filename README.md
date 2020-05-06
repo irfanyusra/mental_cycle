@@ -1,6 +1,7 @@
 
 # Mental Cycle
 An app that allows you to track fluctuations in your mental state, and remind you of the good times when you're having a rough day.
+https://devpost.com/software/mental-cycle
 
 ## Inspiration
 As a team of computer science students, our academic lives tend to get stressful, and the state of our happiness can vary a lot during this time. We wanted to create an app to help us remember the good times, and to remind us that even if our lives seem like they're falling apart, it will always get better.
