@@ -2,6 +2,7 @@
 # Mental Cycle
 An app that allows you to track fluctuations in your mental state, and remind you of the good times when you're having a rough day.
 https://devpost.com/software/mental-cycle
+
 https://mental-cycle.netlify.app/
 
 ## Inspiration
